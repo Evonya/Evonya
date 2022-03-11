@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacques REMY</h1>
-<h3 align="center">I do content mainly for my school but I have but I also have other personal projects.</h3>
+<h3 align="center">I do content mainly for my school but I have other personal projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evonya&label=Profile%20views&color=0e75b6&style=flat" alt="evonya" /> </p>
 
